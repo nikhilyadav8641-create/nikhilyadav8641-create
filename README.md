@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ---
 
 ## 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav8641-create&layout=compact&theme=tokyonight)
+
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ---
 
