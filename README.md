@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Data Structures & Algorithms**
 - 💻 Love solving coding problems
 - 🎯 Goal: Become a Software Engineer
-- 📫 Reach me: your-email@gmail.com
+- 📫 Reach me: nikhilyadav8641@gmail.com
 
 ---
 
