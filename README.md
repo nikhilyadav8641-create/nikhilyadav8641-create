@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 ## 🚀 Tech Stack
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 
 ---
 
 ## 📊 GitHub Stats
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhilyadav8641-create&show_icons=true&theme=tokyonight)
+
 
 ---
 
@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilyadav8641-create&layout=compact&theme=tokyonight)
-
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
 ---
 
 ## 👀 Profile Views
