@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **nikhilyadav8641-create/nikhilyadav8641-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=cplusplus)
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![HTMl](https://img.shields.io/badge/html-blue?style=for-the-badge&logo=cplusplus)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=cplusplus)
+![Javascript](https://img.shields.io/badge/javascript-blue?style=for-the-badge&logo=cplusplus)
+
 
 ---
 
